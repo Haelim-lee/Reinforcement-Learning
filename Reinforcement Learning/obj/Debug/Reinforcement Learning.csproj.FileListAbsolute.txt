@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.exe.config
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.exe
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.pdb
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csproj.CopyComplete
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.exe
+C:\Users\user\Desktop\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.pdb
+D:\Project\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.exe.config
+D:\Project\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.exe
+D:\Project\Reinforcement Learning\Reinforcement Learning\bin\Debug\Reinforcement Learning.pdb
+D:\Project\Reinforcement Learning\Reinforcement Learning\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Reinforcement Learning\Reinforcement Learning\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csproj.AssemblyReference.cache
+D:\Project\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csproj.CoreCompileInputs.cache
+D:\Project\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.csproj.CopyComplete
+D:\Project\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.exe
+D:\Project\Reinforcement Learning\Reinforcement Learning\obj\Debug\Reinforcement Learning.pdb
